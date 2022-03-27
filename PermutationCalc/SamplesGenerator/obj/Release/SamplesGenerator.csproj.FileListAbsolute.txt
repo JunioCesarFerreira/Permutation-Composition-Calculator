@@ -1,0 +1,10 @@
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\SamplesGenerator\bin\Release\SamplesGenerator.exe.config
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\SamplesGenerator\bin\Release\SamplesGenerator.exe
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\SamplesGenerator\bin\Release\SamplesGenerator.pdb
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\SamplesGenerator\bin\Release\PermutationLibrary.dll
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\SamplesGenerator\bin\Release\PermutationLibrary.pdb
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\SamplesGenerator\obj\Release\SamplesGenerator.csprojAssemblyReference.cache
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\SamplesGenerator\obj\Release\SamplesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\SamplesGenerator\obj\Release\SamplesGenerator.csproj.CopyComplete
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\SamplesGenerator\obj\Release\SamplesGenerator.exe
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\SamplesGenerator\obj\Release\SamplesGenerator.pdb

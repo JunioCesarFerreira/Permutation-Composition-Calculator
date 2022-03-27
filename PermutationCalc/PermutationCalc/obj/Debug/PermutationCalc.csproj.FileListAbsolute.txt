@@ -8,3 +8,16 @@ C:\Users\jcf_s\source\repos\PermutationCalc\PermutationCalc\obj\Debug\Permutatio
 C:\Users\jcf_s\source\repos\PermutationCalc\PermutationCalc\obj\Debug\PermutationCalc.csproj.CoreCompileInputs.cache
 C:\Users\jcf_s\source\repos\PermutationCalc\PermutationCalc\obj\Debug\PermutationCalc.exe
 C:\Users\jcf_s\source\repos\PermutationCalc\PermutationCalc\obj\Debug\PermutationCalc.pdb
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\bin\Debug\PermutationCalc.exe.config
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\bin\Debug\PermutationCalc.exe
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\bin\Debug\PermutationCalc.pdb
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Debug\PermutationCalc.csprojAssemblyReference.cache
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Debug\PermutationCalc.FormMain.resources
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Debug\PermutationCalc.Properties.Resources.resources
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Debug\PermutationCalc.csproj.GenerateResource.cache
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Debug\PermutationCalc.csproj.CoreCompileInputs.cache
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Debug\PermutationCalc.exe
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Debug\PermutationCalc.pdb
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\bin\Debug\PermutationLibrary.dll
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\bin\Debug\PermutationLibrary.pdb
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Debug\PermutationCalc.csproj.CopyComplete

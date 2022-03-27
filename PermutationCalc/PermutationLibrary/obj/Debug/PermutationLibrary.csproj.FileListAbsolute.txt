@@ -1,0 +1,6 @@
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationLibrary\bin\Debug\PermutationLibrary.dll
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationLibrary\bin\Debug\PermutationLibrary.pdb
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationLibrary\obj\Debug\PermutationLibrary.csprojAssemblyReference.cache
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationLibrary\obj\Debug\PermutationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationLibrary\obj\Debug\PermutationLibrary.dll
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationLibrary\obj\Debug\PermutationLibrary.pdb

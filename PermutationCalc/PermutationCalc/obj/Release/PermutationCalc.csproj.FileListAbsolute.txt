@@ -1,0 +1,13 @@
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\bin\Release\PermutationCalc.exe.config
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\bin\Release\PermutationCalc.exe
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\bin\Release\PermutationCalc.pdb
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\bin\Release\PermutationLibrary.dll
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\bin\Release\PermutationLibrary.pdb
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Release\PermutationCalc.csprojAssemblyReference.cache
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Release\PermutationCalc.FormMain.resources
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Release\PermutationCalc.Properties.Resources.resources
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Release\PermutationCalc.csproj.GenerateResource.cache
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Release\PermutationCalc.csproj.CoreCompileInputs.cache
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Release\PermutationCalc.csproj.CopyComplete
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Release\PermutationCalc.exe
+C:\Users\jcf_s\source\git\Permutation-Composition-Calculator\PermutationCalc\PermutationCalc\obj\Release\PermutationCalc.pdb
