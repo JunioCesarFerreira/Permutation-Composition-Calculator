@@ -3,6 +3,10 @@ This program arose from a joke to make a permutation calculator. The program exp
 
 <p align="center">
   <img src="https://github.com/JunioCesarFerreira/Permutation-Composition-Calculator/blob/main/print.png">
-  
+</p>
+
+Algorithms:
+
+<p align="center">  
   <img src="https://github.com/JunioCesarFerreira/Permutation-Composition-Calculator/blob/main/AlgorithmsPermutationComposition.png">
 </p>
