@@ -10,3 +10,9 @@ Algorithms:
 <p align="center">  
   <img src="https://github.com/JunioCesarFerreira/Permutation-Composition-Calculator/blob/main/AlgorithmsPermutationComposition.png">
 </p>
+
+Benchmark comparative result example:
+
+<p align="center">
+  <img src="https://github.com/JunioCesarFerreira/Permutation-Composition-Calculator/blob/main/BenchmarksResults/Benchmarck_16.png">
+</p>
